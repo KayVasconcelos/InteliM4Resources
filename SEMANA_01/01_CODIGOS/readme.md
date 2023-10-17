@@ -1,0 +1,3 @@
+Faça uma montagem do TinkerCad com uma montagem de pisca-pisca com Arduino Uno de autoria própria (não pode ser exemplos existentes). Ao clicar no play do TinkerCad, o projeto deve executar sem erros uma rotina que simula um pisca-pisca de qualquer cadência. Utilize no projeto um protoboard, ligações elétricas entre LED (não o LED_BUILT_IN e sim um OFF_BOARD), resistor e uma porta do Arduino por meio de jumpers. Também crie um comentário ao lado do protoboard que mostre matematicamente o valor correto do resistor pela lei de Ohm para um corrente nominal do LED a ser definida pelo datasheet do LED OFF_BOARD.
+
+link do Tinkercad: https://www.tinkercad.com/things/4rXubct2ofj-piscapisca/editel?sharecode=-RKAMvl8GyaV9CjCao9eJYZurXGjute0pjAmhEFeAik 
